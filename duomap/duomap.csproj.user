@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</Source>
+    <SmallTileSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</MediumTileSource>
+    <WideTileSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</WideTileSource>
+    <LargeTileSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</LargeTileSource>
+    <AppIconSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Jupiter\OneDrive\Pictures\Icons\Airplane Mode On.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

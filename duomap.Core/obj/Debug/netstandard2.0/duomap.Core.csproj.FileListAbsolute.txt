@@ -1,0 +1,9 @@
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\bin\Debug\netstandard2.0\duomap.Core.deps.json
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\bin\Debug\netstandard2.0\duomap.Core.dll
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\bin\Debug\netstandard2.0\duomap.Core.pdb
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\obj\Debug\netstandard2.0\duomap.Core.csprojAssemblyReference.cache
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\obj\Debug\netstandard2.0\duomap.Core.AssemblyInfoInputs.cache
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\obj\Debug\netstandard2.0\duomap.Core.AssemblyInfo.cs
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\obj\Debug\netstandard2.0\duomap.Core.csproj.CoreCompileInputs.cache
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\obj\Debug\netstandard2.0\duomap.Core.dll
+D:\Repositories\DeveloperWOW64\Mapify\duomap.Core\obj\Debug\netstandard2.0\duomap.Core.pdb

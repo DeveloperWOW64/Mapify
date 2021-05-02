@@ -1,0 +1,1 @@
+D:\Repositories\DeveloperWOW64\Mapify\duomap\duomap.csproj;x86
